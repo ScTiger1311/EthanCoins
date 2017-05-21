@@ -1,7 +1,7 @@
 # EthanCoins
 Ricky  - 3,136
 
-Avis   - 2,001
+Avis   - 2,101
 
 Barley - 891
 
