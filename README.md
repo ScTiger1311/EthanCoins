@@ -1,7 +1,7 @@
 # EthanCoins
-Ricky  - 50,550,000,003,136
+Ricky  - 3,136
 
-Avis   - 40,000,000,002,001
+Avis   - 2,001
 
 Barley - 891
 
