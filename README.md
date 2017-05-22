@@ -1,5 +1,5 @@
 # EthanCoins
-Ricky  - 3,136
+Ricky  - 3,936
 
 Avis   - 2,101
 
